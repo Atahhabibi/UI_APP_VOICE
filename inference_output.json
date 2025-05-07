@@ -1,0 +1,9 @@
+{
+  "weather": "Clouds",
+  "timestamp": "2025-05-06T17:28:30.161169",
+  "objects": [
+    {
+      "class": "person"
+    }
+  ]
+}
